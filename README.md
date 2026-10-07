@@ -4,11 +4,6 @@
   👋
 </h1>
 
-<p align="center">
-  <a href="https://github.com/cpadillafranzotti/clpf-interactive-panels" target="_blank">
-    <img src="https://raw.githubusercontent.com/cpadillafranzotti/clpf-interactive-panels/main/residues.svg" alt="Residues Panel" width="840"/>
-  </a>
-</p>
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/cpadillafranzotti">
