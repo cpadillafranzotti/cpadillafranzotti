@@ -4,10 +4,12 @@
   👋
 </h1>
 
-<!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/cpadillafranzotti">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=880&lines=Structural+Bioinformatics+%26+Biophysics;IDPs+%26+Protein-Protein+Interactions" alt="typing banner">
-</a>
+<!-- NAME / TAGLINE - animated typing (centrado y actualizado) -->
+<p align="center">
+  <a href="https://github.com/cpadillafranzotti">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=880&lines=Structural+Bioinformatics+%26+Biophysics;IDPs+%26+Protein-Protein+Interactions;Data+Analysis+%26+Data+Viz" alt="typing banner">
+  </a>
+</p>
 
 <br>
 
